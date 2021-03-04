@@ -15,7 +15,7 @@
     <tr>
      <td>
       <b>
-       01: <a href="https://github.com/galaleksey/praktikum/tree/master/01_credit-scoring-preprocessing">
+       01: <a href="https://github.com/galaleksey/praktikum/tree/main/01_preprocessing_credit-scoring">
        Исследование надежности заемщиков</a>
       </b>
      </td>
