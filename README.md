@@ -27,7 +27,8 @@
         <code>
             pandas,<br>
             pymystem3,<br>
-            Counter (from collections).
+            numpy,<br>
+           nltk.stem
         </code>
      </td>
     </tr>
