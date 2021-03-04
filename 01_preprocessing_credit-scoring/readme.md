@@ -15,7 +15,8 @@
 ```
 pandas
 pymystem3
-
+numpy
+nltk.stem
 ```
 ### Описание данных
 
