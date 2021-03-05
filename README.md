@@ -25,9 +25,9 @@
      </td>
      <td>
         <code>
-            pandas,<br>
-            pymystem3,<br>
-            numpy,<br>
+            pandas,<br/>
+            pymystem3,<br/>
+            numpy,<br/>
            nltk.stem
         </code>
      </td>
