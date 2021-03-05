@@ -44,13 +44,11 @@
         мошенническую деятельность на сайте он-лайн сервиса.<br>
      </td>
      <td>
-        <code>
             <code>pandas</code><br>
             <code>matplotlib.pyplot</code><br>
             <code>numpy</code><br>
             <code>datetime</code><br>
             Визуализации: <code>boxplot, histogram, scatterplot, line plot</code>
-        </code>
      </td>
     </tr>
     <tr>
