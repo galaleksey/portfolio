@@ -33,7 +33,7 @@
     <tr>
      <td>
       <b>
-       02: <a href="https://github.com/galaleksey/praktikum/tree/master/02_research-of-apartment-advertisements">
+       02: <a href="https://github.com/galaleksey/praktikum/tree/main/02_eda_apartment-advertisements">
        Исследование объявлений о продаже квартир</a>
       </b>
      </td>
