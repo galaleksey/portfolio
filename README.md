@@ -24,9 +24,9 @@
         В проекте большой блок по предобработке данных, в котором применил лемматизацию и категоризацию.
      </td>
      <td>
-            <code>pandas</code>,<br/>
-            <code>pymystem3</code>,<br/>
-            <code>numpy</code>,<br/>
+            <code>pandas</code><br/>
+            <code>pymystem3</code><br/>
+            <code>numpy</code><br/>
            <code>nltk.stem</code>
      </td>
     </tr>
@@ -45,11 +45,11 @@
      </td>
      <td>
         <code>
-            pandas,<br>
-            matplotlib.pyplot,<br>
-            numpy,<br>
-            datetime,<br>
-            Визуализации: boxplot, histogram, scatterplot, line plot.
+            <code>pandas</code><br>
+            <code>matplotlib.pyplot</code><br>
+            <code>numpy</code><br>
+            <code>datetime</code><br>
+            Визуализации: <code>boxplot, histogram, scatterplot, line plot</code>
         </code>
      </td>
     </tr>
