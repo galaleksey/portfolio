@@ -48,7 +48,9 @@
      <td>
         <code>
             pandas,<br>
-            matplotlib.pyplot.<br><br>
+            matplotlib.pyplot,<br>
+            numpy,<br>
+            datetime,<br>
             Визуализации: boxplot, histogram, scatterplot, line plot.
         </code>
      </td>
