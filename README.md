@@ -24,10 +24,10 @@
         В проекте большой блок по предобработке данных, в котором применил лемматизацию и категоризацию.
      </td>
      <td>
-            <code>pandas<code/>,<br/>
-            <code>pymystem3<code/>,<br/>
-            <code>numpy<code/>,<br/>
-           <code>nltk.stem<code/>
+            <code>pandas</code>,<br/>
+            <code>pymystem3</code>,<br/>
+            <code>numpy</code>,<br/>
+           <code>nltk.stem</code>
      </td>
     </tr>
     <tr>
