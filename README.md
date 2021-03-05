@@ -48,7 +48,7 @@
             <code>matplotlib.pyplot</code><br>
             <code>numpy</code><br>
             <code>datetime</code><br>
-            Визуализации: <code>boxplot, histogram, scatterplot, line plot</code>
+            Визуализации: <code>histogram, box plot, bar plot, scatter plot, line plot</code>
      </td>
     </tr>
     <tr>
