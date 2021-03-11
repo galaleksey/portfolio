@@ -15,7 +15,7 @@
     <tr>
      <td>
       <b>
-       01: <a href="https://github.com/galaleksey/praktikum/tree/main/01_preprocessing_credit-scoring">
+       01: <a href="https://github.com/galaleksey/portfolio/tree/main/01_preprocessing_credit-scoring">
        Исследование надежности заемщиков</a>
       </b>
      </td>
@@ -33,7 +33,7 @@
     <tr>
      <td>
       <b>
-       02: <a href="https://github.com/galaleksey/praktikum/tree/main/02_eda_apartment-advertisements">
+       02: <a href="https://github.com/galaleksey/portfolio/tree/main/02_eda_apartment-advertisements">
        Исследование объявлений о продаже квартир</a>
       </b>
      </td>
@@ -59,8 +59,7 @@
       </b>
      </td>
      <td>
-        Подобрал типовые характеристики пользователей, исследовал использование ресурсов оператора. Определил, какой 
-        тариф приносит больше денег, чтобы перераспределить бюджеты на рекламу.
+        Подобрал типовые характеристики пользователей, исследовал использование ресурсов оператора. Определил, какой тариф лучше.
      </td>
      <td>
         <code>
@@ -98,7 +97,7 @@
      <td>
       <b>
        05: <a href="https://github.com/galaleksey/praktikum/tree/master/05_ticket_service-business-analysis">
-       Аналитика в интернет-сервисе по продаже билетов</a>
+       Аналитика в авиакомпании</a>
       </b>
      </td>
      <td>
