@@ -14,9 +14,10 @@
    </thead>
    <tbody  valign="top">
     <tr>
+     <td>1</td>
      <td>
       <b>
-       01: <a href="https://github.com/galaleksey/portfolio/tree/main/01_preprocessing_credit-scoring">
+       <a href="https://github.com/galaleksey/portfolio/tree/main/01_preprocessing_credit-scoring">
        Исследование надежности заемщиков</a>
       </b>
      </td>
@@ -32,9 +33,10 @@
      </td>
     </tr>
     <tr>
+     <td>2</td>  
      <td>
       <b>
-       02: <a href="https://github.com/galaleksey/portfolio/tree/main/02_eda_apartment-advertisements">
+       <a href="https://github.com/galaleksey/portfolio/tree/main/02_eda_apartment-advertisements">
        Исследование объявлений о продаже квартир</a>
       </b>
      </td>
@@ -53,9 +55,10 @@
      </td>
     </tr>
     <tr>
+     <td>3</td>
      <td>
       <b>
-       03: <a href="https://github.com/galaleksey/praktikum/tree/master/03_telecom">
+       <a href="https://github.com/galaleksey/praktikum/tree/master/03_telecom">
        Определение перспективного тарифа для телеком компании</a>
       </b>
      </td>
@@ -74,9 +77,10 @@
      </td>
     </tr>
     <tr>
+     <td>4</td>
      <td>
       <b>
-       04: <a href="https://github.com/galaleksey/praktikum/tree/master/04_e-commerce-games">
+       <a href="https://github.com/galaleksey/praktikum/tree/master/04_e-commerce-games">
        Исследование рынка компьютерных игр</a>
       </b>
      </td>
@@ -95,9 +99,10 @@
      </td>
     </tr>
     <tr>
+     <td>5</td>
      <td>
       <b>
-       05: <a href="https://github.com/galaleksey/praktikum/tree/master/05_ticket_service-business-analysis">
+       <a href="https://github.com/galaleksey/praktikum/tree/master/05_ticket_service-business-analysis">
        Аналитика в авиакомпании</a>
       </b>
      </td>
@@ -117,9 +122,10 @@
      </td>
     </tr>
     <tr>
+     <td>6</td>
      <td>
       <b>
-       06: <a href="https://github.com/galaleksey/portfolio/tree/master/06_e-commerce-a-b-testing">
+       <a href="https://github.com/galaleksey/portfolio/tree/master/06_e-commerce-a-b-testing">
        Принятие решений в бизнесе на основе данных</a>
       </b>
      </td>
@@ -141,9 +147,10 @@
      </td>
     </tr>
     <tr>
+     <td>7</td>
      <td>
       <b>
-       07: <a href="https://github.com/galaleksey/praktikum/tree/master/07_restaurants-vizualization">
+       <a href="https://github.com/galaleksey/praktikum/tree/master/07_restaurants-vizualization">
        Анализ рынка заведений общественного питания Москвы</a>
       </b>
      </td>
@@ -161,9 +168,10 @@
      </td>
     </tr>
     <tr>
+     <td>8</td>
      <td>
       <b>
-       08: <a href="https://github.com/galaleksey/praktikum/tree/master/08_conversion%20funnel_and_AB">
+       <a href="https://github.com/galaleksey/praktikum/tree/master/08_conversion%20funnel_and_AB">
        Анализ воронки продаж интернет-сервиса по продаже продуктов питания</a>
       </b>
      </td>
@@ -182,9 +190,10 @@
      </td>
     </tr>
     <tr>
+     <td>9</td>
      <td>
       <b>
-       09: <a href="https://public.tableau.com/profile/galaleksey#!/vizhome/Project11_Zen/Dashboard">
+       <a href="https://public.tableau.com/profile/galaleksey#!/vizhome/Project11_Zen/Dashboard">
        Анализ взаимодействия пользователей с карточками Яндекс.Дзен</a>
       </b>
      </td>
@@ -200,9 +209,10 @@
      </td>
     </tr>
     <tr>
+     <td>10</td>
      <td>
       <b>
-       10: <a href="https://github.com/galaleksey/praktikum/tree/master/10_ML">
+       <a href="https://github.com/galaleksey/praktikum/tree/master/10_ML">
        Применение машинного обучения в прогнозировании оттока клиентов фитнес-центра</a>
       </b>
      </td>
@@ -227,9 +237,10 @@
      </td>
     </tr>
     <tr>
+     <td>11</td>
      <td>
       <b>
-       11: <a href="https://github.com/galaleksey/portfolio/tree/master/11_AB_SQL_E-commerce_Dashboard">
+       <a href="https://github.com/galaleksey/portfolio/tree/master/11_AB_SQL_E-commerce_Dashboard">
        Выпускной проект</a>
       </b>
      </td>
