@@ -229,7 +229,7 @@
      <td>
       <b>
        11: <a href="https://github.com/deliriumdel/portfolio/tree/master/11_AB_SQL_E-commerce_Dashboard">
-       TBD</a>
+       Выпускной проект</a>
       </b>
      </td>
      <td>
