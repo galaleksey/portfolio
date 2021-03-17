@@ -118,7 +118,7 @@
     <tr>
      <td>
       <b>
-       06: <a href="https://github.com/deliriumdel/portfolio/tree/master/06_e-commerce-a-b-testing">
+       06: <a href="https://github.com/galaleksey/portfolio/tree/master/06_e-commerce-a-b-testing">
        Принятие решений в бизнесе на основе данных</a>
       </b>
      </td>
@@ -228,7 +228,7 @@
     <tr>
      <td>
       <b>
-       11: <a href="https://github.com/deliriumdel/portfolio/tree/master/11_AB_SQL_E-commerce_Dashboard">
+       11: <a href="https://github.com/galaleksey/portfolio/tree/master/11_AB_SQL_E-commerce_Dashboard">
        Выпускной проект</a>
       </b>
      </td>
