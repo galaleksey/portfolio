@@ -259,7 +259,7 @@
      <td>12</td>
      <td>
       <b>
-       <a href="">
+       <a href="https://github.com/galaleksey/yandex-praktikum/tree/main/12_final_project">
        Выпускной проект</a>
       </b>
      </td>
