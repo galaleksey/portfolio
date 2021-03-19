@@ -17,7 +17,7 @@
      <td>1</td>
      <td>
       <b>
-       <a href="https://github.com/galaleksey/portfolio/tree/main/01_preprocessing_credit-scoring">
+       <a href="https://github.com/galaleksey/yandex-praktikum/tree/main/01_preprocessing_credit-scoring">
        Исследование надежности заемщиков</a>
       </b>
      </td>
@@ -36,7 +36,7 @@
      <td>2</td>  
      <td>
       <b>
-       <a href="https://github.com/galaleksey/portfolio/tree/main/02_eda_apartment-advertisements">
+       <a href="https://github.com/galaleksey/yandex-praktikum/tree/main/02_eda_apartment-advertisements">
        Исследование объявлений о продаже квартир</a>
       </b>
      </td>
@@ -58,7 +58,7 @@
      <td>3</td>
      <td>
       <b>
-       <a href="https://github.com/galaleksey/praktikum/tree/master/03_telecom">
+       <a href="https://github.com/galaleksey/yandex-praktikum/tree/main/03_statistics_telecom">
        Определение перспективного тарифа для телеком компании</a>
       </b>
      </td>
@@ -80,7 +80,7 @@
      <td>4</td>
      <td>
       <b>
-       <a href="https://github.com/galaleksey/praktikum/tree/master/04_e-commerce-games">
+       <a href="https://github.com/galaleksey/yandex-praktikum/tree/main/04_games-market-research">
        Исследование рынка компьютерных игр</a>
       </b>
      </td>
@@ -102,8 +102,28 @@
      <td>5</td>
      <td>
       <b>
-       <a href="https://github.com/galaleksey/praktikum/tree/master/05_ticket_service-business-analysis">
-       Аналитика в авиакомпании</a>
+       <a href="https://github.com/galaleksey/yandex-praktikum/tree/main/05_etl_flights">
+       Сбор и хранение данных. Аналитика в авиакомпании</a>
+      </b>
+     </td>
+     <td>
+        Загрузил данные по рейсам авиакомании из БД и проанализировал данные.
+     </td>
+     <td>
+        <code>
+            pandas,<br>
+            matplotlib.pyplot.<br>
+            Визуализации: boxplot, histogram, line plot, heatmap, group bar, stacked bar.
+            Другие инструменты: SQL.
+        </code>
+     </td>
+    </tr>
+    <tr>
+     <td>6</td>
+     <td>
+      <b>
+       <a href="https://github.com/galaleksey/yandex-praktikum/tree/main/06_business_metrics">
+       Принятие решений в бизнесе на основе данных. Аналитика в Яндекс.Афише</a>
       </b>
      </td>
      <td>
@@ -122,10 +142,10 @@
      </td>
     </tr>
     <tr>
-     <td>6</td>
+     <td>7</td>
      <td>
       <b>
-       <a href="https://github.com/galaleksey/portfolio/tree/master/06_e-commerce-a-b-testing">
+       <a href="https://github.com/galaleksey/yandex-praktikum/tree/main/07_a-b-testing_e-commerce">
        Принятие решений в бизнесе на основе данных</a>
       </b>
      </td>
@@ -147,10 +167,10 @@
      </td>
     </tr>
     <tr>
-     <td>7</td>
+     <td>8</td>
      <td>
       <b>
-       <a href="https://github.com/galaleksey/praktikum/tree/master/07_restaurants-vizualization">
+       <a href="https://github.com/galaleksey/yandex-praktikum/tree/main/08_vizualization_restaurants">
        Анализ рынка заведений общественного питания Москвы</a>
       </b>
      </td>
@@ -168,10 +188,10 @@
      </td>
     </tr>
     <tr>
-     <td>8</td>
+     <td>9</td>
      <td>
       <b>
-       <a href="https://github.com/galaleksey/praktikum/tree/master/08_conversion%20funnel_and_AB">
+       <a href="https://github.com/galaleksey/yandex-praktikum/tree/main/09_conversion_funnel_a-b">
        Анализ воронки продаж интернет-сервиса по продаже продуктов питания</a>
       </b>
      </td>
@@ -190,16 +210,15 @@
      </td>
     </tr>
     <tr>
-     <td>9</td>
+     <td>10</td>
      <td>
       <b>
-       <a href="https://public.tableau.com/profile/galaleksey#!/vizhome/Project11_Zen/Dashboard">
-       Анализ взаимодействия пользователей с карточками Яндекс.Дзен</a>
+       Анализ взаимодействия пользователей с карточками Яндекс.Дзен
       </b>
      </td>
      <td>
         Создал дашборд для менеджеров по анализу контента популярной блог-платформы.<br>
-        Сагрегировал данные и сверстал дашборд в Tableu.Public с основными типами графиков и элементами управления.
+        Сагрегировал данные и сверстал <a href="https://public.tableau.com/profile/galaleksey#!/vizhome/Project11_Zen/Dashboard">дашборд в Tableu.Public</a> с основными типами графиков и элементами управления.
      </td>
      <td>
         <code>
@@ -209,10 +228,10 @@
      </td>
     </tr>
     <tr>
-     <td>10</td>
+     <td>11</td>
      <td>
       <b>
-       <a href="https://github.com/galaleksey/praktikum/tree/master/10_ML">
+       <a href="">
        Применение машинного обучения в прогнозировании оттока клиентов фитнес-центра</a>
       </b>
      </td>
@@ -237,10 +256,10 @@
      </td>
     </tr>
     <tr>
-     <td>11</td>
+     <td>12</td>
      <td>
       <b>
-       <a href="https://github.com/galaleksey/portfolio/tree/master/11_AB_SQL_E-commerce_Dashboard">
+       <a href="">
        Выпускной проект</a>
       </b>
      </td>
