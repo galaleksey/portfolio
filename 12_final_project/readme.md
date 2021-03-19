@@ -1,7 +1,8 @@
 # Выпускной проект
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+|№| Название проекта | Описание | Использованные библиотеки Python и другие инструменты |
+|1| ------------- |:-------------:| -----:|
+|2| col 3 is      | right-aligned | $1600 |
+|3| col 2 is      | centered      |   $12 |
+|4| zebra stripes | are neat      |    $1 |
+
