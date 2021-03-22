@@ -63,11 +63,11 @@
 </td>
 <td>
     <code>
-        pandas,<br>
-        matplotlib.pyplot,<br>
-        stats.scipy,<br>
-        numpy.<br><br>
-        Визуализации: histogram.
+        <code>pandas</code>,<br>
+        <code>matplotlib.pyplot</code>,<br>
+        <code>stats.scipy</code>,<br>
+        <code>numpy</code>.<br><br>
+        Визуализации: <code>histogram</code>.
     </code>
 </td>
 </tr>
@@ -85,11 +85,11 @@
 </td>
 <td>
     <code>
-        pandas,<br>
-        matplotlib.pyplot,<br>
-        stats from scipy,<br>
-        numpy.<br><br>
-        Визуализации: boxplot, histogram, line plot, group bar, scatterplot.
+        <code>pandas</code>,<br>
+        <code>matplotlib.pyplot</code>,<br>
+        <code>stats from scipy</code>,<br>
+        <code>numpy</code>.<br>
+        Визуализации: <code>boxplot, histogram, line plot, group bar, scatterplot</code>.
     </code>
 </td>
 </tr>
@@ -107,8 +107,10 @@
 <td>
     <code>
         pandas,<br>
-        matplotlib.pyplot.<br>
-        Визуализации: boxplot, histogram, line plot, heatmap, group bar, stacked bar.
+        matplotlib.pyplot,<br>
+        requests,<br>
+        BeautifulSoup,<br>
+        Визуализации: boxplot, histogram, line plot, heatmap, group bar, stacked bar.<br>
         Другие инструменты: SQL.
     </code>
 </td>
