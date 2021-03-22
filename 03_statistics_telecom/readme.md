@@ -18,4 +18,4 @@ stats.scipy
 matplotlib.pyplot
 numpy
 ```
-Визуализации: ```histogram, box plot, bar plot, scatter plot, line plot```
+Визуализации: ```histogram```
