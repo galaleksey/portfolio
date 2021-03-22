@@ -47,7 +47,6 @@
     <code>matplotlib.pyplot</code><br>
     <code>numpy</code><br>
     <code>datetime</code><br>
-    Визуализации: <code>histogram, box plot, bar plot, scatter plot, line plot</code>
 </td>
 </tr>
 <tr>
@@ -63,11 +62,10 @@
 </td>
 <td>
     <code>
-        <code>pandas</code>,<br>
-        <code>matplotlib.pyplot</code>,<br>
-        <code>stats.scipy</code>,<br>
-        <code>numpy</code>.<br><br>
-        Визуализации: <code>histogram</code>.
+        <code>pandas</code><br>
+        <code>matplotlib.pyplot</code><br>
+        <code>stats.scipy</code><br>
+        <code>numpy</code><br><br>
     </code>
 </td>
 </tr>
@@ -84,13 +82,10 @@
     спрогнозировал приоритетные направления для продаж на следующий год.
 </td>
 <td>
-    <code>
-        <code>pandas</code>,<br>
-        <code>matplotlib.pyplot</code>,<br>
-        <code>stats from scipy</code>,<br>
-        <code>numpy</code>.<br>
-        Визуализации: <code>boxplot, histogram, line plot, group bar, scatterplot</code>.
-    </code>
+        <code>pandas</code><br>
+        <code>matplotlib.pyplot</code><br>
+        <code>stats from scipy</code><br>
+        <code>numpy</code>
 </td>
 </tr>
 <tr>
@@ -102,17 +97,14 @@
      </b>
  </td>
  <td>
-    Загрузил данные по рейсам авиакомании из БД и проанализировал их.
+    Загрузил данные из различных источников (БД, парсинг сайта) и проанализировал их.
 </td>
 <td>
-    <code>
-        pandas,<br>
-        matplotlib.pyplot,<br>
-        requests,<br>
-        BeautifulSoup,<br>
-        Визуализации: boxplot, histogram, line plot, heatmap, group bar, stacked bar.<br>
-        Другие инструменты: SQL.
-    </code>
+        <code>pandas</code><br>
+        <code>matplotlib.pyplot</code><br>
+        <code>requests</code><br>
+        <code>BeautifulSoup</code><br>
+        Другие инструменты: <code>SQL</code>.
 </td>
 </tr>
 <tr>
