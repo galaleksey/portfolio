@@ -112,7 +112,7 @@
    <td>
       <b>
          <a href="https://github.com/galaleksey/yandex-praktikum/tree/main/06_business_metrics">
-         Принятие решений в бизнесе на основе данных. Аналитика в Яндекс.Афише</a>
+         Аналитика в Яндекс.Афише</a>
      </b>
  </td>
  <td>
