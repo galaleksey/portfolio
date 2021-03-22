@@ -68,7 +68,7 @@
         matplotlib.pyplot,<br>
         stats.scipy,<br>
         numpy.<br><br>
-        Визуализации: boxplot.
+        Визуализации: histogram.
     </code>
 </td>
 </tr>
