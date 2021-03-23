@@ -12,5 +12,6 @@
 
 ## Инструменты
 * `SQL`
-* Web: `requests`, `beautifulsoup`
-* Python: `pandas`, `matplotlib.pyplot`
+* Python: 
+  * `pandas`, `matplotlib.pyplot`
+  * Web: `requests`, `beautifulsoup`
