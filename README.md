@@ -221,19 +221,16 @@
     Составил портрет лояльных клиентов и клиентов, склонных к уходу. Построил модель прогнозирования оттока клиентов. Выполнил кластеризацию клиентов.
 </td>
 <td>
-    <code>
-        pandas,<br>
-        matplotlib.pyplot,<br>
-        seaborn,<br><br>
-        train_test_split from sklearn.model_selection,<br>
-        StandardScaler from sklearn.preprocessing,<br>
-        LogisticRegression from sklearn.linear_model,<br>
-        RandomForestClassifier from sklearn.ensemble,<br>
-        accuracy_score, precision_score, recall_score, f1_score, roc_auc_score from sklearn.metrics,<br>
-        RandomizedSearchCV from sklearn.model_selection,<br>
-        dendrogram, linkage from scipy.cluster.hierarchy,<br>
-        KMeans from sklearn.cluster.
-    </code>
+        <code>pandas</code>
+        <code>seaborn</code>
+        <code>matplotlib.pyplot</code>
+        <code>sklearn.cluster: KMeans</code>
+        <code>sklearn.ensemble: RandomForestClassifier</code>
+        <code>sklearn.linear_model: LogisticRegression</code>
+        <code>sklearn.metrics: accuracy_score, precision_score, recall_score, f1_score</code>
+        <code>sklearn.model_selection: train_test_split</code>
+        <code>sklearn.preprocessing: StandardScaler</code>
+        <code>scipy.cluster.hierarchy: dendrogram, linkage</code>
 </td>
 </tr>
 <tr>
