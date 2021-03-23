@@ -245,7 +245,17 @@
    TBD
 </td>
 <td>
-   TBD
+        <code>pandas</code>
+        <code>seaborn</code>
+        <code>matplotlib.pyplot</code>
+        <code>numpy</code>
+        <code>warnings</code>
+        <code>statistics</code>
+        <code>scipy.stats</code><br>
+        <code>sklearn.preprocessing: StandardScaler</code><br>
+        <code>scipy.cluster.hierarchy: dendrogram, linkage</code><br>
+        <code>klearn.cluster: KMeans</code><br>
+        <code>sklearn: preprocessing</code>
 </td>
 </tr>
 </tbody>
