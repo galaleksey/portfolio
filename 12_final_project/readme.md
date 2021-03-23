@@ -32,11 +32,15 @@
 ```
 pandas
 seaborn
-matplotlib.pyplot
+datetime
+math
 numpy
 warnings
 statistics
 scipy.stats
+matplotlib.pyplot
+matplotlib.dates
+plotly.graph_objects
 scipy.cluster.hierarchy: dendrogram, linkage
 klearn.cluster: KMeans
 sklearn: preprocessing
