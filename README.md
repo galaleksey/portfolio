@@ -116,18 +116,15 @@
      </b>
  </td>
  <td>
-    Провел исследование и рассчитал метрики: DAU, WAU, MAU, sticky factor, Retention Rate, LTV, SAS, ROMI.<br>
-    Выяснил как люди пользуются продуктом, когда они начинают покупать, сколько денег приносит каждый клиент, 
-    когда клиент окупается. 
+    Изучил поведение пользователей сервиса и рассчитал метрики: DAU, WAU, MAU, sticky factor, Retention Rate, LTV, SAS, ROMI.<br>
+    Выяснил как люди пользуются продуктом, когда они начинают покупать, сколько денег приносит каждый клиент, когда клиент окупается. 
 </td>
 <td>
-    <code>
-        pandas,<br>
-        matplotlib.pyplot,<br>
-        seaborn,<br>
-        numpy.<br><br>
-        Визуализации: boxplot, histogram, line plot, heatmap, group bar, stacked bar.
-    </code>
+        <code>pandas</code><br>
+        <code>matplotlib.pyplot</code><br>
+        <code>seaborn</code><br>
+        <code>numpy</code><br>
+        <code>scipy.stats</code>
 </td>
 </tr>
 <tr>
@@ -135,7 +132,7 @@
    <td>
       <b>
          <a href="https://github.com/galaleksey/yandex-praktikum/tree/main/07_a-b-testing_e-commerce">
-         Принятие решений в бизнесе на основе данных</a>
+         A/B тестирование в интернет-магазине</a>
      </b>
  </td>
  <td>
@@ -162,16 +159,15 @@
      </b>
  </td>
  <td>
-    Провел исследовательский анализ данных о заведениях общественного питания Москвы.<br>
-    Cделал общий вывод и дал рекомендации о виде заведения, количестве посадочных мест, а также районе 
-    расположения для открытия небольшого кафе.
+    Проанализировал данные о заведениях общественного питания Москвы. Дал рекомендации, какое заведение лучше открывать.
 </td>
 <td>
-    <code>
-        pandas,<br>
-        plotly.express,<br>
-        re.<br>
-    </code>
+        <code>pandas</code><br>
+        <code>numpy</code><br>
+        <code>matplotlib.pyplot</code><br>
+        <code>seaborn</code><br>
+        <code>textwrap.wrap</code><br>
+        <code>re</code>
 </td>
 </tr>
 <tr>
