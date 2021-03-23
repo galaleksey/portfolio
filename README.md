@@ -44,7 +44,7 @@
 </td>
 <td>
     <code>pandas</code><br>
-    <code>matplotlib.pyplot</code><br>
+    <code>matplotlib</code><br>
     <code>numpy</code><br>
     <code>datetime</code><br>
 </td>
@@ -62,8 +62,8 @@
 </td>
 <td>
         <code>pandas</code><br>
-        <code>matplotlib.pyplot</code><br>
-        <code>stats.scipy</code><br>
+        <code>matplotlib</code><br>
+        <code>stats</code><br>
         <code>numpy</code><br><br>
 </td>
 </tr>
@@ -81,8 +81,8 @@
 </td>
 <td>
         <code>pandas</code><br>
-        <code>matplotlib.pyplot</code><br>
-        <code>stats from scipy</code><br>
+        <code>matplotlib</code><br>
+        <code>stats</code><br>
         <code>numpy</code>
 </td>
 </tr>
@@ -99,10 +99,10 @@
 </td>
 <td>
         <code>pandas</code><br>
-        <code>matplotlib.pyplot</code><br>
+        <code>matplotlib</code><br>
         <code>requests</code><br>
         <code>BeautifulSoup</code><br>
-        <code>SQL</code>.
+        <code>SQL</code>
 </td>
 </tr>
 <tr>
@@ -119,10 +119,10 @@
 </td>
 <td>
         <code>pandas</code><br>
-        <code>matplotlib.pyplot</code><br>
+        <code>matplotlib</code><br>
         <code>seaborn</code><br>
         <code>numpy</code><br>
-        <code>scipy.stats</code>
+        <code>scipy</code>
 </td>
 </tr>
 <tr>
@@ -198,9 +198,9 @@
     Создал <a href="https://public.tableau.com/profile/galaleksey#!/vizhome/Project11_Zen/Dashboard">дашборд в Tableu Public</a> для менеджеров по анализу контента блог-платформы Яндекс.Дзен.
 </td>
 <td>
-        <code>pandas</code><br>
-        <code>sqlalchemy.create_engine</code><br>
         <code>Tableu</code>
+        <code>pandas</code><br>
+        <code>sqlalchemy</code><br>
 </td>
 </tr>
 <tr>
@@ -236,15 +236,15 @@
    3. SQL: создание запросов
 </td>
 <td>
-        <code>SQL</code><br>
-        <code>Tableau</code><br>
-        <code>pandas</code><br>
-        <code>seaborn</code><br>
-        <code>matplotlib</code><br>
-        <code>numpy</code><br>
-        <code>statistics</code><br>
-        <code>scipy</code><br>
-        <code>sklearn</code><br>
+        <code>SQL</code><
+        <code>Tableau</code>
+        <code>pandas</code>
+        <code>seaborn</code>
+        <code>matplotlib</code>
+        <code>numpy</code>
+        <code>statistics</code>
+        <code>scipy</code>
+        <code>sklearn</code>
 </td>
 </tr>
 </tbody>
