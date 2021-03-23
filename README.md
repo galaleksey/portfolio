@@ -16,8 +16,10 @@
     <tr>
        <td>1</td>
        <td>
+          <b>
              <a href="https://github.com/galaleksey/yandex-praktikum/tree/main/01_preprocessing_credit-scoring">
              Исследование надежности заемщиков</a>
+          </b>
      </td>
      <td>
         Определил, какие факторы и каким образом влияют на способность клиента банка погасить кредит в срок.
