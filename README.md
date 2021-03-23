@@ -175,21 +175,22 @@
    <td>
       <b>
          <a href="https://github.com/galaleksey/yandex-praktikum/tree/main/09_conversion_funnel_a-b">
-         Анализ воронки продаж интернет-сервиса по продаже продуктов питания</a>
+         Анализ воронки продаж в мобильном приложении по продаже продуктов питания</a>
      </b>
  </td>
  <td>
-    Изучил воронку конверсии, проанализировал все шаги, которые покупатель проходит до покупки, выявил вероятные 
-    проблемы. Исследовал результаты проведенного А/А/В-теста.
+    Изучил все шаги воронки продаж, выявил вероятные проблемы. Исследовал результаты проведенного А/А/В-теста.
 </td>
 <td>
-    <code>
-        pandas,<br>
-        plotly.express,<br>
-        numpy,<br>
-        math,<br>
-        proportions_ztest from statsmodels.stats.proportion.
-    </code>
+        <code>pandas</code>
+        <code>matplotlib.pyplot</code>
+        <code>seaborn</code>
+        <code>datetime</code>
+        <code>plotly.graph_objects</code>
+        <code>scipy.stats</code>
+        <code>numpy</code>
+        <code>math</code>
+        <code>pandas.plotting.register_matplotlib_converters</code>
 </td>
 </tr>
 <tr>
@@ -200,14 +201,12 @@
      </b>
  </td>
  <td>
-    Создал дашборд для менеджеров по анализу контента популярной блог-платформы.<br>
-    Сагрегировал данные и сверстал <a href="https://public.tableau.com/profile/galaleksey#!/vizhome/Project11_Zen/Dashboard">дашборд в Tableu.Public</a> с основными типами графиков и элементами управления.
+    Создал <a href="https://public.tableau.com/profile/galaleksey#!/vizhome/Project11_Zen/Dashboard">дашборд в Tableu Public</a> для менеджеров по анализу контента блог-платформы Яндекс.Дзен.
 </td>
 <td>
-    <code>
-        pandas,<br>
-        sqlalchemy.create_engine
-    </code>
+        <code>pandas</code><br>
+        <code>sqlalchemy.create_engine</code><br>
+        <code>sTableu</code>
 </td>
 </tr>
 <tr>
