@@ -22,4 +22,3 @@ stats.scipy
 matplotlib.pyplot
 numpy
 ```
-Визуализации: ```histogram, bar plot, line plot, boxplot, scatter plot```
