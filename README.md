@@ -211,7 +211,7 @@
    <td>11</td>
    <td>
       <b>
-         <a href="">
+         <a href="https://github.com/galaleksey/yandex-praktikum/tree/main/11_ml_fitness">
          Прогнозирование оттока клиентов фитнес-центра с помощью машинного обучения</a>
      </b>
  </td>
