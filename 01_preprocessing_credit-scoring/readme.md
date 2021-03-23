@@ -17,5 +17,4 @@ pandas
 pymystem3 (для лемматизации)
 nltk.stem (для стемминга)
 numpy
-
 ```
