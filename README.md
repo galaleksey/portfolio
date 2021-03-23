@@ -26,8 +26,8 @@
     </td>
     <td>
         <code>pandas</code><br/>
-        <code>pymystem3</code> (для лемматизации)<br/>
-        <code>nltk.stem</code> (для стемминга)<br/>
+        <code>pymystem3</code><br/>
+        <code>nltk.stem</code><br/>
         <code>numpy</code>
     </td>
 </tr>
@@ -236,7 +236,7 @@
    3. SQL: создание запросов
 </td>
 <td>
-        <code>SQL</code><
+        <code>SQL</code>
         <code>Tableau</code>
         <code>pandas</code>
         <code>seaborn</code>
