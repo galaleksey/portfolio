@@ -102,7 +102,7 @@
         <code>matplotlib.pyplot</code><br>
         <code>requests</code><br>
         <code>BeautifulSoup</code><br>
-        Другие инструменты: <code>SQL</code>.
+        <code>SQL</code>.
 </td>
 </tr>
 <tr>
