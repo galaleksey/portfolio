@@ -18,4 +18,3 @@ stats.scipy
 matplotlib.pyplot
 numpy
 ```
-Визуализации: ```histogram```
