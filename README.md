@@ -61,12 +61,10 @@
     Исследовал поведение клиентов телеком оператора при пользовании тарифами. Определил, какой тариф лучше.
 </td>
 <td>
-    <code>
         <code>pandas</code><br>
         <code>matplotlib.pyplot</code><br>
         <code>stats.scipy</code><br>
         <code>numpy</code><br><br>
-    </code>
 </td>
 </tr>
 <tr>
