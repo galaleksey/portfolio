@@ -245,6 +245,8 @@
    TBD
 </td>
 <td>
+        <code>SQL</code>
+        <code>Tableau</code>
         <code>pandas</code>
         <code>seaborn</code>
         <code>matplotlib.pyplot</code>
