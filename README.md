@@ -36,7 +36,7 @@
    <td>
       <b>
          <a href="https://github.com/galaleksey/yandex-praktikum/tree/main/02_eda_apartment-advertisements">
-         Исследование объявлений о продаже квартир</a>
+         Исследование объявлений о продаже квартир в Яндекс.Недвижимость</a>
      </b>
  </td>
  <td>
