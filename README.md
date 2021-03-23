@@ -16,10 +16,8 @@
     <tr>
        <td>1</td>
        <td>
-          <b>
              <a href="https://github.com/galaleksey/yandex-praktikum/tree/main/01_preprocessing_credit-scoring">
              Исследование надежности заемщиков</a>
-         </b>
      </td>
      <td>
         Определил, какие факторы и каким образом влияют на способность клиента банка погасить кредит в срок.
@@ -196,9 +194,7 @@
 <tr>
    <td>10</td>
    <td>
-      <b>
          Дашборд для Яндекс.Дзен
-     </b>
  </td>
  <td>
     Создал <a href="https://public.tableau.com/profile/galaleksey#!/vizhome/Project11_Zen/Dashboard">дашборд в Tableu Public</a> для менеджеров по анализу контента блог-платформы Яндекс.Дзен.
