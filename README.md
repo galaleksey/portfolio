@@ -17,7 +17,7 @@
        <td>1</td>
        <td>
           <b>
-             <a href="https://github.com/galaleksey/yandex-praktikum/tree/main/01_preprocessing_credit-scoring">
+             <a href="https://github.com/galaleksey/portfolio/tree/main/01_preprocessing_credit-scoring">
              Исследование надежности заемщиков</a>
           </b>
      </td>
@@ -35,7 +35,7 @@
    <td>2</td>  
    <td>
       <b>
-         <a href="https://github.com/galaleksey/yandex-praktikum/tree/main/02_eda_apartment-advertisements">
+         <a href="https://github.com/galaleksey/portfolio/tree/main/02_eda_apartment-advertisements">
          Исследование объявлений о продаже квартир в Яндекс.Недвижимость</a>
      </b>
  </td>
@@ -53,7 +53,7 @@
    <td>3</td>
    <td>
       <b>
-         <a href="https://github.com/galaleksey/yandex-praktikum/tree/main/03_statistics_telecom">
+         <a href="https://github.com/galaleksey/portfolio/tree/main/03_statistics_telecom">
          Определение перспективного тарифа для телеком компании</a>
      </b>
  </td>
@@ -71,7 +71,7 @@
    <td>4</td>
    <td>
       <b>
-         <a href="https://github.com/galaleksey/yandex-praktikum/tree/main/04_games-market-research">
+         <a href="https://github.com/galaleksey/portfolio/tree/main/04_games-market-research">
          Исследование рынка компьютерных игр</a>
      </b>
  </td>
@@ -90,7 +90,7 @@
    <td>5</td>
    <td>
       <b>
-         <a href="https://github.com/galaleksey/yandex-praktikum/tree/main/05_etl_flights">
+         <a href="https://github.com/galaleksey/portfolio/tree/main/05_etl_flights">
          Аналитика в авиакомпании</a>
      </b>
  </td>
@@ -109,7 +109,7 @@
    <td>6</td>
    <td>
       <b>
-         <a href="https://github.com/galaleksey/yandex-praktikum/tree/main/06_business_metrics">
+         <a href="https://github.com/galaleksey/portfolio/tree/main/06_business_metrics">
          Аналитика в Яндекс.Афише</a>
      </b>
  </td>
@@ -128,7 +128,7 @@
    <td>7</td>
    <td>
       <b>
-         <a href="https://github.com/galaleksey/yandex-praktikum/tree/main/07_a-b-testing_e-commerce">
+         <a href="https://github.com/galaleksey/portfolio/tree/main/07_a-b-testing_e-commerce">
          A/B тестирование в интернет-магазине</a>
      </b>
  </td>
@@ -148,7 +148,7 @@
    <td>8</td>
    <td>
       <b>
-         <a href="https://github.com/galaleksey/yandex-praktikum/tree/main/08_vizualization_restaurants">
+         <a href="https://github.com/galaleksey/portfolio/tree/main/08_vizualization_restaurants">
          Анализ рынка заведений общественного питания Москвы</a>
      </b>
  </td>
@@ -168,7 +168,7 @@
    <td>9</td>
    <td>
       <b>
-         <a href="https://github.com/galaleksey/yandex-praktikum/tree/main/09_conversion_funnel_a-b">
+         <a href="https://github.com/galaleksey/portfolio/tree/main/09_conversion_funnel_a-b">
          Анализ воронки продаж в мобильном приложении по продаже продуктов питания</a>
      </b>
  </td>
@@ -204,7 +204,7 @@
    <td>11</td>
    <td>
       <b>
-         <a href="https://github.com/galaleksey/yandex-praktikum/tree/main/11_ml_fitness">
+         <a href="https://github.com/galaleksey/portfolio/tree/main/11_ml_fitness">
          Прогнозирование оттока клиентов фитнес-центра с помощью машинного обучения</a>
      </b>
  </td>
@@ -223,7 +223,7 @@
    <td>12</td>
    <td>
       <b>
-         <a href="https://github.com/galaleksey/yandex-praktikum/tree/main/12_final_project">
+         <a href="https://github.com/galaleksey/portfolio/tree/main/12_final_project">
          Выпускной проект</a>
      </b>
  </td>
