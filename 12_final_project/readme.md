@@ -19,7 +19,7 @@
 ### Выводы
 
 ## 3. SQL: создание запросов
-[Файл с проектом](https://github.com/galaleksey/yandex-praktikum/blob/main/12_final_project/12_sql.ipynb)
+Файл с проектом: [12_sql.ipynb](https://github.com/galaleksey/yandex-praktikum/blob/main/12_final_project/12_sql.ipynb)
 
 Цель - составить SQL-запросы для сервиса по продаже электронных книг.
 
