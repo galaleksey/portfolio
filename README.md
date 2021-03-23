@@ -223,13 +223,13 @@
 <td>
         <code>pandas</code>
         <code>seaborn</code>
-        <code>matplotlib.pyplot</code>
-        <code>sklearn.cluster: KMeans</code>
-        <code>sklearn.ensemble: RandomForestClassifier</code>
-        <code>sklearn.linear_model: LogisticRegression</code>
-        <code>sklearn.metrics: accuracy_score, precision_score, recall_score, f1_score</code>
-        <code>sklearn.model_selection: train_test_split</code>
-        <code>sklearn.preprocessing: StandardScaler</code>
+        <code>matplotlib.pyplot</code><br>
+        <code>sklearn.cluster: KMeans</code><br>
+        <code>sklearn.ensemble: RandomForestClassifier</code><br>
+        <code>sklearn.linear_model: LogisticRegression</code><br>
+        <code>sklearn.metrics: accuracy_score, precision_score, recall_score, f1_score</code><br>
+        <code>sklearn.model_selection: train_test_split</code><br>
+        <code>sklearn.preprocessing: StandardScaler</code><br>
         <code>scipy.cluster.hierarchy: dendrogram, linkage</code>
 </td>
 </tr>
