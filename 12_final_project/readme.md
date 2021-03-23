@@ -44,7 +44,7 @@ matplotlib.pyplot
 matplotlib.dates
 plotly.graph_objects
 scipy.cluster.hierarchy: dendrogram, linkage
-klearn.cluster: KMeans
+sklearn.cluster: KMeans
 sklearn: preprocessing
 sklearn.preprocessing: StandardScaler
 SQL
