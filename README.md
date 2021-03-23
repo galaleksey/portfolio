@@ -141,11 +141,10 @@
 </td>
 <td>
         <code>pandas</code><br>
-        <code>matplotlib.pyplot</code><br>
-        <code>matplotlib.lines</code><br>
+        <code>matplotlib</code><br>
         <code>numpy</code><br>
         <code>datetime</code><br>
-        <code>scipy.stats</code>
+        <code>scipy</code>
 </td>
 </tr>
 <tr>
@@ -162,9 +161,9 @@
 <td>
         <code>pandas</code><br>
         <code>numpy</code><br>
-        <code>matplotlib.pyplot</code><br>
+        <code>matplotlib</code><br>
         <code>seaborn</code><br>
-        <code>textwrap.wrap</code><br>
+        <code>textwrap</code><br>
         <code>re</code>
 </td>
 </tr>
@@ -181,14 +180,13 @@
 </td>
 <td>
         <code>pandas</code>
-        <code>matplotlib.pyplot</code>
+        <code>matplotlib</code>
         <code>seaborn</code>
         <code>datetime</code>
-        <code>plotly.graph_objects</code>
-        <code>scipy.stats</code>
+        <code>plotly</code>
+        <code>scipy</code>
         <code>numpy</code>
         <code>math</code>
-        <code>pandas.plotting.register_matplotlib_converters</code>
 </td>
 </tr>
 <tr>
@@ -217,16 +215,11 @@
     Составил портрет лояльных клиентов и клиентов, склонных к уходу. Построил модель прогнозирования оттока клиентов. Выполнил кластеризацию клиентов.
 </td>
 <td>
-        <code>pandas</code>
-        <code>seaborn</code>
-        <code>matplotlib.pyplot</code><br>
-        <code>sklearn.cluster: KMeans</code><br>
-        <code>sklearn.ensemble: RandomForestClassifier</code><br>
-        <code>sklearn.linear_model: LogisticRegression</code><br>
-        <code>sklearn.metrics: accuracy_score, precision_score, recall_score, f1_score</code><br>
-        <code>sklearn.model_selection: train_test_split</code><br>
-        <code>sklearn.preprocessing: StandardScaler</code><br>
-        <code>scipy.cluster.hierarchy: dendrogram, linkage</code>
+        <code>pandas</code><br>
+        <code>seaborn</code><br>
+        <code>matplotlib</code><br>
+        <code>sklearn</code><br>
+        <code>scipy</code>
 </td>
 </tr>
 <tr>
@@ -243,19 +236,15 @@
    3. SQL: создание запросов
 </td>
 <td>
-        <code>SQL</code>
-        <code>Tableau</code>
-        <code>pandas</code>
-        <code>seaborn</code>
-        <code>matplotlib.pyplot</code>
-        <code>numpy</code>
-        <code>warnings</code>
-        <code>statistics</code>
-        <code>scipy.stats</code><br>
-        <code>sklearn.preprocessing: StandardScaler</code><br>
-        <code>scipy.cluster.hierarchy: dendrogram, linkage</code><br>
-        <code>klearn.cluster: KMeans</code><br>
-        <code>sklearn: preprocessing</code>
+        <code>SQL</code><br>
+        <code>Tableau</code><br>
+        <code>pandas</code><br>
+        <code>seaborn</code><br>
+        <code>matplotlib</code><br>
+        <code>numpy</code><br>
+        <code>statistics</code><br>
+        <code>scipy</code><br>
+        <code>sklearn</code><br>
 </td>
 </tr>
 </tbody>
